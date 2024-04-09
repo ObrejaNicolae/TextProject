@@ -1,0 +1,11 @@
+Propozitii: 13
+Lungimea textului: 1284
+Lungimea textului fara spatii: 1080
+Cuvinte: 239
+Cele 5 cuvinte: [(',', 15), ('.', 13), ('the', 12), ('and', 11), ('Elara', 7)]
+Cuvinte la plural: 30
+Rezumat : In a small village nestled amidst the mountains lived an elderly woman named Elara. Despite all her efforts, days passed, and the bird showed no signs of improvement. Elara became renowned throughout the region as a skilled healer blessed with magical powers.
+Cuvinte cu aceiasi radacina : []
+prepozitiile : ['In', 'throughout', 'for', 'in', 'with', 'while', 'through', 'for', 'upon', 'with', 'by', 'for', 'Despite', 'of', 'with', 'of', 'that', 'With', 'of', 'throughout', 'from', 'in', 'throughout', 'as', 'with', 'for', 'from', 'into', 'of']
+Conjunctiile : ['and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'But', 'and', 'or']
+Antonimele : {',': [], '.': [], 'the': [], 'and': [], 'Elara': []}
